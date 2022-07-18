@@ -1,6 +1,6 @@
 #  BEM VINDOS(AS)!!!!
 
-O principal objetivo deste software, é auxiliar de forma dinamica a utilização da calculadora. Você pode utiliza-lo, selecionando uma de suas funções que inclueo calculo de:
+O principal objetivo deste software, é exibir o resultado de N números atráves da URL do navegador. Funções disponíveis:
 - Divisão
 - Soma 
 - Subtração
@@ -11,7 +11,6 @@ E mostrar, se necessário, as opções de:
 - Compartilhar
 - Ver o histórico
 - Visualizar seu perfil. 
-
 
 
 ##
