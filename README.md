@@ -12,7 +12,7 @@ E mostrar, se necessário, as opções de:
 - Ver o histórico
 - Visualizar seu perfil. 
 
-CALCULADORA SEGURA E PRATICA!!! 
+
 
 ##
 - Évelly Karine
