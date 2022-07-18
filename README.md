@@ -1,11 +1,16 @@
 #  BEM VINDOS(AS)!!!!
 
-O principal objetivo deste software, é fazer com o que seja um meio simples e fácil de utilizar. Você pode utiliza-lo, selecionando suas funções que estão disponiveis no projeto board, como:
-- calcular divisão;
-- soma;
-- subtração;
-- multiplicação;
-- mostrar, se necessário, as opções de compartilhar, ver o histórico e visualizar seu perfil. 
+O principal objetivo deste software, é auxiliar de forma dinamica a utilização da calculadora. Você pode utiliza-lo, selecionando uma de suas funções que inclueo calculo de:
+- Divisão
+- Soma 
+- Subtração
+- Multiplicação 
+
+E mostrar, se necessário, as opções de: 
+
+- Compartilhar
+- Ver o histórico
+- Visualizar seu perfil. 
 
 CALCULADORA SEGURA E PRATICA!!! 
 
