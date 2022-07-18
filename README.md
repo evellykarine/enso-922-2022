@@ -1,6 +1,7 @@
 #  BEM VINDOS(AS)!!!!
 
-O principal objetivo deste software, é exibir o resultado de N números atráves da URL do navegador. Funções disponíveis:
+O principal objetivo deste software, é exibir o resultado de números atráves da URL do navegador. 
+Funções disponíveis:
 - Divisão
 - Soma 
 - Subtração
