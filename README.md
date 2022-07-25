@@ -10,7 +10,7 @@ O principal objetivo deste software, é fazer com o que seja um meio simples e f
 CALCULADORA SEGURA E PRATICA!!! 
 
 ##
-- Évelly Karine
-- Maria Luiza 
-- Emanuel Lucas
-- Bruna Letícia
+- Évelly Karine dos Santos
+- Maria Luiza Santos de Lima
+- Emanuel Lucas da Silva de Araújo
+- Bruna Letícia Gomes Santos
