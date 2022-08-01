@@ -14,7 +14,7 @@ E mostrar, se necessário, as opções de:
 - Visualizar seu perfil. 
 
 ##
-- Évelly Karine 
-- Maria Luiza 
-- Emanuel Lucas 
-- Bruna Letícia 
+- Évelly Karine dos Santos 
+- Maria Luiza Santos de Lima 
+- Emanuel Lucas da Silva de Araújo
+- Bruna Letícia Gomes Santos 
