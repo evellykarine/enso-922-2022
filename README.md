@@ -1,15 +1,20 @@
-#  BEM VINDOS(AS)!!!!
+BEM VINDOS(AS)!!!!
+O principal objetivo deste software, é auxiliar de forma dinâmica a utilização da calculadora. Você pode utilizá-lo, selecionando uma de suas funções que inclue o cálculo de:
 
+- Divisão
+- Soma
+- Subtração
+- Multiplicação
 
-O principal objetivo deste software, é fazer com o que seja um meio simples e fácil de utilizar. Você pode utilizá-lo, selecionando suas funções que estão disponiveis no project board, como:
-- calcular divisão;
-- soma;
-- subtração;
-- multiplicação;
-- mostrar, se necessário, as opções de compartilhar, ver o histórico e visualizar seu perfil. 
+ E mostrar, se necessário, as opções de:
+ 
+- Compartilhar
+- Ver o histórico
+- Visualizar seu perfil.
+
 
 ##
-- Évelly Karine 
-- Maria Luiza 
-- Emanuel Lucas 
-- Bruna Letícia 
+- Évelly Karine
+- Maria Luiza
+- Emanuel Lucas
+- Bruna Letícia
