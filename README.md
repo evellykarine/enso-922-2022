@@ -1,5 +1,5 @@
 BEM VINDOS(AS)!!!!
-O principal objetivo deste software, é auxiliar de forma dinamica a utilização da calculadora. Você pode utiliza-lo, selecionando uma de suas funções que inclue o calculo de:
+O principal objetivo deste software, é auxiliar de forma dinâmica a utilização da calculadora. Você pode utilizá-lo, selecionando uma de suas funções que inclue o cálculo de:
 
 - Divisão
 - Soma
