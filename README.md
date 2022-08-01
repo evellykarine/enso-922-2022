@@ -1,4 +1,6 @@
-#  BEM VINDOS(AS)!!!!
+BEM VINDOS(AS)!!!!
+O principal objetivo deste software, é auxiliar de forma dinâmica a utilização da calculadora. Você pode utilizá-lo, selecionando uma de suas funções que inclue o cálculo de:
+
 
 O principal objetivo deste software, é exibir o resultado de números atráves da URL do navegador. 
 Funções disponíveis:
