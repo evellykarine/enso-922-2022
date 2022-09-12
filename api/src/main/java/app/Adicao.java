@@ -2,7 +2,7 @@ package app;
 
 import io.jooby.annotations.*;
 
-@Path("/adicao/{op1}+{op2}")
+@Path("/adicao/{op1}/{op2}")
 public class Adicao {
 
     @GET
