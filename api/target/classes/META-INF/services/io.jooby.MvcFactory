@@ -1,5 +1,5 @@
-app.Adicao$Module
-app.Controller$Module
 app.Subtracao$Module
 app.Divisao$Module
+app.Controller$Module
+app.Adicao$Module
 
