@@ -5,6 +5,7 @@ import io.jooby.Jooby;
 public class App extends Jooby {
   {
 
+    mvc(new Adicao());
     mvc(new Multiplicacao());
   }
 
