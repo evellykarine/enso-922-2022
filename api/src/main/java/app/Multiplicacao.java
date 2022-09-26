@@ -6,7 +6,7 @@ import io.jooby.annotations.*;
 public class Multiplicacao{
  
     @GET
-    public double calculaDivisao (@PathParam double op1, @PathParam double op2) {
+    public double calculaMultiplicacao (@PathParam double op1, @PathParam double op2) {
         return op1 * op2;
     }
 }
