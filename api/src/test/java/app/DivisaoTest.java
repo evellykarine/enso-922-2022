@@ -26,9 +26,9 @@ public class DivisaoTest {
   }
 
   @Test
-  public void menorQueCinco() {
-    Double resultado = divisao.calculaDivisao(60, 10);
-    assertTrue(resultado > 5);
+  public void menorQueDez() {
+    Double resultado = divisao.calculaDivisao(50, 20);
+    assertTrue(resultado < 10);
   }
 
 }
