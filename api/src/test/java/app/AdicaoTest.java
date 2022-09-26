@@ -32,4 +32,9 @@ public class AdicaoTest {
         double resultado = adicao.calculaAdicao(-7,2);
         assertEquals(-5, resultado);
     }
+        @Test
+    public void testAdicaodeDecimais() {
+        double resultado = adicao.calculaAdicao(7.2,2.3);
+        assertEquals(9.5, resultado);
+    }
 }
