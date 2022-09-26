@@ -35,6 +35,18 @@ public class  MultiplicacaoTeste {
         double resultado = multiplicacao.calculaMultiplicacao(250000,2);
         assertEquals(500000, resultado);
     }
+
+    @Test
+    public void testMultiplicacaoNumbernegative() {
+        double resultado = multiplicacao.calculaMultiplicacao(-5,-10);
+        assertEquals(50, resultado);
+    }
+
+    @Test
+    public void testeMultiDoisN() {
+        double resultado = multiplicacao.calculaMultiplicacao(-150,220);
+        assertEquals(33000, resultado);
+    }
 }
     
 
